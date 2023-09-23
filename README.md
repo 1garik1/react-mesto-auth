@@ -1,8 +1,8 @@
-##ПРЕКТНАЯ РАБОТА №12: МЕСТО##
+##ПРЕКТНАЯ РАБОТА №12: МЕСТО
 
 В данном проекте, помимо добавления картинок и изменения имени профиля и его аватара, реализована авторизация и регистрация.
 
-###Используемый стек:###
+###Используемый стек:
 * БЭМ(Nested)
 * CSS3(FlexBox, Grid Layout, Adaptive UI, Media Queries)
 * JS(ES6, ООП, Promises, API)
@@ -12,4 +12,4 @@
 * Webpack
 * NPM
 
-###Проект на GHpages: https://1garik1.github.io/react-mesto-auth/###
+###Проект на GHpages: https://1garik1.github.io/react-mesto-auth/
