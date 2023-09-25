@@ -241,7 +241,7 @@ function App() {
         />
         <ImagePopup
           card={selectedCard}
-          isOpen={isImagePopupOpen} 
+          isOpen={isImagePopupOpen}
           onClose={closeAllPopups}
           onCloseClick={handleClosePopupByOverlay}
         />

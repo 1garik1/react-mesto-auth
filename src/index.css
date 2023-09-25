@@ -1,6 +1,7 @@
 body {
-    background: #000;
-  }
+  background: #000;
+}
+
 @import url(./vendor/normalize.css);
 @import url(./vendor/fonts/inter.css);
 @import url(./blocks/page/page.css);
