@@ -68,6 +68,7 @@ function App() {
       });
     }
   }, []);
+
   useEffect(() => {
     if (isLoggedIn === true) {
       navigate("/");
